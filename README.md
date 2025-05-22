@@ -1,4 +1,4 @@
-# onitama all possible cards generator
+# onitama all possible cards generator\n
 holds all the files to make 12926 custom onitama cards
 the original game has cards that can move to, at maximum, 24 different spaces
 each card can either move to 2, 3, or 4 of the 24 spaces
